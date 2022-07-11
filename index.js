@@ -42,11 +42,11 @@ let questions = [
 
     },{
         type: "input",
-        message: "State if others can contribute.",
+        message: "Can others contribute?",
         name: "contribute"
     },{
         type: "input",
-        message: "Please state any test(s) required.",
+        message: "State any test(s) required.",
         name: "test"
     },{
         type: "input",
@@ -54,7 +54,7 @@ let questions = [
         name: "accomplish"
     },{
         type: "input",
-        message: "Please state provide a screenshot.",
+        message: "Provide a screenshot.",
         name: "scriptjs" 
     },{
         type: "input",
