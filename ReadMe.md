@@ -34,15 +34,11 @@
     Contribution Guidelines
     [Back to Table of Contents](#Table-of-Contents)
     Yes
-    
-    
+   
     
     Test Instructions
     [Back to Table of Contents](#Table-of-Contents)
     1.  you must invoke using node--index.js command
-    2.  undefined
-    3.  undefined
-    
     
     Overview: Accomplishments
      Workflow [Back to Table of Contents](#Table-of-Contents)
@@ -51,12 +47,9 @@
     
    Screenshots
     [Back to Table of Contents](#Table-of-Contents)
-     Demo![script.js](![Screen Shot 2022-07-11 at 12 09 37 AM](https://user-images.githubusercontent.com/103548864/178208440-2a9b5a1f-cb92-4c3f-9bb7-52bad9968253.png))
+     Screen shot [script.js](![Screen Shot 2022-07-11 at 12 09 37 AM](https://user-images.githubusercontent.com/103548864/178208440-2a9b5a1f-cb92-4c3f-9bb7-52bad9968253.png))
     
-    (undefined)
-    
-    (undefined)
-    
+    Demo video: https://drive.google.com/file/d/1Q6Z5cu_DpVlAbO5InSBFTw3fppfxMv-r/view
     
     
     [Back to Table of Contents](#Table-of-Contents)
