@@ -2,7 +2,7 @@ var fileGenerator = require("./fileGenerator");
 var fs = require("fs");
 var inquirer = require('inquirer');
 
-// questions to ask the user //
+// User Questions //
 let questions = [
     {
         type: "input",
@@ -46,16 +46,8 @@ let questions = [
         name: "contribute"
     },{
         type: "input",
-        message: "Please state any test(s) required (1/3).",
+        message: "Please state any test(s) required.",
         name: "test"
-    },{
-        type: "input",
-        message: "Please state any test(s) required (2/3).",
-        name: "test2"
-    },{
-        type: "input",
-        message: "Please state any test(s) required (3/3).",
-        name: "test3",
     },{
         type: "input",
         message: "What are the project acomplishments.",
