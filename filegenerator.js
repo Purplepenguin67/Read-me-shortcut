@@ -1,7 +1,7 @@
 function fileGenerator(response) {
     var content = `# ${response.title}
     ${response.logo}[${response.userName}](${response.GitHub}) [Email Me](${response.email})
-    ReadMeGenerator© 2020 All Rights Reserved.  ${response.license} All material must be cited or credited, when using material (free to use).
+    ReadMe shortcut.  ${response.license}
     
     
     
