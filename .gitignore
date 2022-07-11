@@ -1,2 +1,4 @@
-.ds_store
-/.ds_store
+node_modules
+package-lock.json
+.vscode
+.DS_Store
