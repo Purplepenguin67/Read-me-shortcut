@@ -54,17 +54,6 @@ function fileGenerator(response) {
     [Back to Table of Contents](#Table-of-Contents)
      Demo![script.js](${response.scriptjs})
     
-    (${response.fileGnerator})
-    
-    (${response.ReadMe})
-    
-    
-    
-    [Back to Table of Contents](#Table-of-Contents)
-    1.  ${response.ref1}
-    
-    2.  ${response.ref2}
-    
      Repository Goal Criterea
      [Back to Table of Contents](#Table-of-Contents)
     ${response.endgoal}
